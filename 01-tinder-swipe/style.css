@@ -132,7 +132,7 @@ footer {
     z-index: 2;
 
     &.go-left {
-      transform: translateX(-150%) rotate(-30deg) !important;
+      transform: translateX(-100%) rotate(-20deg) !important;
     }
 
     &.go-right {
